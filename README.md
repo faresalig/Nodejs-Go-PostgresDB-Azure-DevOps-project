@@ -30,7 +30,7 @@ This repository provides a production-ready setup for deploying applications to 
 - **Networking**: Azure CNI with network policies
 
 <img width="1519" height="836" alt="Screenshot 2025-07-18 at 5 31 50 AM" src="https://github.com/user-attachments/assets/c1ce8dfc-cb87-4620-bfad-6c6d573d1709" />
-
+<img src=imgs/cover.png>
 
 ### Environment Structure
 
