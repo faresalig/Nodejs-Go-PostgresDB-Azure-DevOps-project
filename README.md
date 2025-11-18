@@ -314,7 +314,7 @@ vim prod/terraform.tfvars
 
 ```bash
 # Test that your GitOps repository is publicly accessible
-curl -s https://raw.githubusercontent.com/YOUR_USERNAME/gitops-configs/main/namespace.yaml
+curl -s https://raw.githubusercontent.com/faresalig/gitops-configs/refs/heads/main/3tire-configs/namespace.yaml
 
 # This should return the namespace.yaml content. If you get a 404, check:
 # 1. Repository name is correct
